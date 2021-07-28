@@ -2,3 +2,5 @@
 -lait
 -sel
 -gruyère
+
+temps de cuisson : 10min

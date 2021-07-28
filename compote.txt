@@ -2,4 +2,6 @@
 -sucre
 -cannelle
 
+temps de cuisson : 10min
+
 Ma modification qui va tout faire péter

@@ -1,2 +1,4 @@
 -pates
 -carbo
+
+temps de cuisson : 10min
