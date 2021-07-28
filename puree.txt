@@ -1,0 +1,4 @@
+-pdt
+-lait
+-sel
+-gruyère
